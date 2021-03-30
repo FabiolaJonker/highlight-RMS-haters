@@ -16,4 +16,4 @@ function addStyleSheet(style){
   return elementStyle;
 }
 
-addStyleSheet('@import "https://FabiolaJonker.github.io/highlight-RMS-haters/styles.css";');
+addStyleSheet('@import "https://raw.githubusercontent.com/FabiolaJonker/highlight-RMS-haters/main/styles.css";');
